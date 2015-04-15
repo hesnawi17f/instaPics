@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
-instaRaider.py
-usage: instaRaider.py [-h] -u USER [-c COUNT]
+instaPics.py
+usage: instaPics.py [-h] -u USER [-c COUNT]
 @hesnawi17f
 """
 from bs4 import BeautifulSoup
